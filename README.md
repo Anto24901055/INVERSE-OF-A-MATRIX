@@ -17,6 +17,7 @@ To write a python program to find the inverse of a matrix
 #Developed by: ANTO WILLIAMS S
 
 #RegisterNumber: 24901055
+```
 
 import numpy as np
 
@@ -25,6 +26,8 @@ matrix=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 inverse=np.linalg.inv(A)
 
 print(inverse)
+
+```
 
 ## Output:
 ![Screenshot 2024-12-12 152400](https://github.com/user-attachments/assets/802470b7-3a47-48d5-b777-176d897aeb5f)
